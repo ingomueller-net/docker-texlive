@@ -17,14 +17,6 @@ RUN apt-get update && \
         python3-scipy \
         python3-sympy \
         python3-seaborn \
-        python-matplotlib \
-        python-nose \
-        python-numpy \
-        python-pandas \
-        python-pygments \
-        python-scipy \
-        python-sympy \
-        python-seaborn \
         pdftk \
         latexmk \
         biber \
